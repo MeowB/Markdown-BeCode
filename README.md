@@ -31,4 +31,4 @@ Tech money.
 * The support it can give.
 
 ## my favourite gif: 
-![](./image.png)
+![](./blow-kiss.gif)
