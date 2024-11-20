@@ -22,7 +22,7 @@ Not being able to achieve my goal in a 7 month period.
 
 ## The things I look forward to: 
 
-Tech money.
+Tech money and free society car.
 
 ## The three things I value the most in working as a team:
 
