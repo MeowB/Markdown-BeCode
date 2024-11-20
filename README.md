@@ -31,4 +31,4 @@ Tech money.
 * The support it can give.
 
 ## my favourite gif: 
-![](https://tenor.com/view/blow-kiss-wink-and-point-gif-12688083)
+![](./image.png)
